@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949644601037",
+    "project_id": "twilio-audio-call",
+    "storage_bucket": "twilio-audio-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949644601037:android:766d9579cf981d9c4eab84",
+        "android_client_info": {
+          "package_name": "com.example.audio_call_twilio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949644601037-d3g800oud5k8svogu5m1dku2pvh4hshp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWfjQyn3Vp5H2RQsweofaL8xDtFEwZptw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949644601037-d3g800oud5k8svogu5m1dku2pvh4hshp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
